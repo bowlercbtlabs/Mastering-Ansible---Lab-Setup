@@ -212,6 +212,18 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 
 - This is because the Cisco device is not running a newer version of ssh that the Ubuntu server is trying to use to connect.
 
-- We will now update the Ubuntu server to allow the old version of ssh:
+- We will now update the Ubuntu server to allow the old version of ssh by applying the following commands:
 
-- 
+sudo vi /etc/ssh/ssh_config
+
+KexAlgorithms diffie-hellman-group1-sha1,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group14-sha1
+HostKeyAlgorithms +ssh-rsa
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/be017911-c1cd-4f65-bfb9-e9a3aef54a70)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/dab69ff9-3478-477f-ae21-96664ba82abb)
+
+https://networkevolution.in/how-to-enable-older-key-exchange-and-host-key-algorithms-in-ubuntu-to-initiate-ssh-connection-to-older-ios-images/
+
+
+
