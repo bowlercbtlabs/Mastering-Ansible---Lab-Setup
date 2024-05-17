@@ -173,5 +173,42 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ee782e7a-18de-4a38-9764-414ff604bc54)
 
+- Add the new device to the workspace area:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/4400b64b-5d2a-41f9-b617-fd88dabb9bfd)
+
+- Connect Gi0/0 on the Cisco router to the switch Ethernet2 interface:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/811d5e3b-02d1-4e82-8acb-7db50de8c4dd)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/022adf0b-8102-4f3b-9c79-eff6aaf83688)
+
+- Start the router and open the console:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/edfb14a3-e31e-4bf9-84fd-7494265ebe15)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/4b00bdc2-add2-47fa-b638-f813718ecebe)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/15602cd8-7179-4598-9e86-f823606db726)
+
+- Add in the following commands to allow for ssh access from the Ubuntu VM server to the router:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/5ae27208-62d4-4b03-b76f-0d02ef2df892)
+
+- Add the interface configuration on Gi0/0 with an IP address on the network between the GNS3 VM and the Ubuntu server:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/9108a0cf-f46f-4e48-aa0e-fb77c7d71af4)
+
+- Try the ssh connection from the Ubuntu Server that is going to be running Ansible:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/e735161f-58e0-41a2-afbc-b6020a7ed1d1)
+
+- ssh may fail like below:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/83a16c7d-bca3-47b6-9abb-ce36d46d277f)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ef6d4528-4312-4561-947c-d92cf3bc0eed)
 
 
+- This is because the Cisco device is not running a newer version of ssh that the Ubuntu server is trying to use to connect
+- 
