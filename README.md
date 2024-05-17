@@ -143,9 +143,15 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/0ba04c9b-4baa-4c2c-85d5-b6a35b357f44)
 
-- Give the PC an IP address on the :
+- Give the PC an IP address on the Network between the Ubuntu VM and the GNS3 VM (in this case, 192.168.79.0/24 | It may be different on your local network ):
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/b42c9109-ee84-4ed9-95c2-9618e41eeb0f)
+
+- Now ping from Ubuntu Server to the PC:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/c1a3a14c-6f6d-4fd3-b5d1-13de4a6e4fd0)
+
+- Now that we have reachability to everything, its time to add the Cisco IOS into GNS3:
 
 
 
