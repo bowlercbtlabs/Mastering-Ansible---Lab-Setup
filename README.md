@@ -5,12 +5,12 @@ Mastering Ansible - Lab Setup
 NOTE
 *****
 
-- Try this way first to add VMWare Workstation to GNS3, it may be easier:
+- Try this way first with your CentOS9 VM and use the 'virtualbox' VM option, it may be easier:
 
 - https://docs.gns3.com/docs/emulators/adding-vmware-vms-to-gns3-topologies
 
 ****
-If the above Method fails, proceed on to the below method:
+If the above Method fails, try again using the VMWare Workstation option, if that 2nd option fails then proceed on to the below method:
 ****
 
 ****
