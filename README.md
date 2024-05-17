@@ -125,7 +125,27 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/7a08c2a9-88d0-4ba9-a298-c410c7d4e95d)
 
+- Build eth0 connection from VPCS and to eth1 on the Switch:
 
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/8d8f4fc7-e98d-460e-99a4-2751345c8423)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/0911c97b-9c60-444c-ab7a-08677a4fd859)
+
+- Build Cloud1 eth0 connection to eth0 connection on the Switch:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/4c1bedc1-adc8-40f4-94be-92ae84ad1bf4)
+
+- Start the VPCS:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/50f86ca5-b4a4-4e51-b4c7-f580a6bb9f2d)
+
+- Open the console:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/0ba04c9b-4baa-4c2c-85d5-b6a35b357f44)
+
+- Give the PC an IP address on the :
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/b42c9109-ee84-4ed9-95c2-9618e41eeb0f)
 
 
 
