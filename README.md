@@ -1,8 +1,21 @@
 # Mastering-Ansible---Lab-Setup
 Mastering Ansible - Lab Setup
 
+****
+NOTE
+*****
 
+- Try this way first to add VMWare Workstation to GNS3, it may be easier:
+
+- https://docs.gns3.com/docs/emulators/adding-vmware-vms-to-gns3-topologies
+
+****
+If the above Method fails, proceed on to the below method:
+****
+
+****
 - VMWare Workstation Download:
+****
 
 https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html
 
