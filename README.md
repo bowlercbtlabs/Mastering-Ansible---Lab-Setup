@@ -226,5 +226,10 @@ HostKeyAlgorithms +ssh-rsa
 
 https://networkevolution.in/how-to-enable-older-key-exchange-and-host-key-algorithms-in-ubuntu-to-initiate-ssh-connection-to-older-ios-images/
 
+- Try the ssh connection again:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ebecd955-b13b-458f-9570-30611e9578eb)
+
+- Its working now, you have successfully created a connection from the ubuntu VM to the GNS3 VM running inside of GNS3
 
 
