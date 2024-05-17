@@ -53,6 +53,18 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/6b1c7ee0-819f-40d2-9333-c6321f2b4b6c)
 
+- Open GNS3 VM from VMWare Workstation:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/b83984cb-151d-46fa-81ed-c4e4b4a6c055)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/eec96c97-759e-4b7e-b368-e6f75d143893)
+
+- DISABLE WINDOWS HYPERVISOR, VIRTUAL MACHINE AND LINUX SUBSYSTEMS IN ORDER TO GET IT TO WORK:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/15d6cec3-11d6-4235-8677-5b4077e20470)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/97f75391-a7ee-4b62-b937-88b952452d28)
+
 
 
 
