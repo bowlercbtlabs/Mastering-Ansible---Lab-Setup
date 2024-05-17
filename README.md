@@ -153,5 +153,25 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 
 - Now that we have reachability to everything, its time to add the Cisco IOS into GNS3:
 
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/e5296e71-32db-4ccd-8ee9-90b4723ad848)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/1dcdcd07-6e97-4042-97c9-93be863ce39d)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/f83f8a9f-d89b-4ded-830c-043cf673c26d)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/b2826cc9-273a-4d9d-845c-27cb9eacc614)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/bbf1b968-f2e1-4df4-b37f-7d22bf21731c)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/44dbec01-fcd7-4c7d-bde1-61f86edb59ed)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/05a400d7-4cbc-4a4b-b9a0-7fc9bb20e27b)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/b6a43104-ebf0-4dd5-a3cc-a2a07453dac3)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/9e111149-406b-4b22-87f3-7b0172c43682)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ee782e7a-18de-4a38-9764-414ff604bc54)
+
 
 
