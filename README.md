@@ -65,6 +65,65 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/97f75391-a7ee-4b62-b937-88b952452d28)
 
+- POWER ON THE GNS3 VM
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/c1f92480-fb3c-4074-8d87-b89db356e3b7)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/811d6b97-7660-481a-bde1-1408bb0b09e4)
+
+- LOGIN TO UBUNTU VM and try to ping the GNS3 VM:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/0497cd4d-68d0-4f21-81b3-3c19db639767)
+
+- Download the GNS3 software now:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/5cd96db3-9bf8-43fa-8c01-a758b5f8b17b)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/838190b9-57e3-463e-aef3-82f5a6a05dcc)
+
+- Run GNS3 installer:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/cd60d6f5-756e-4493-8d0c-bd779b517adf)
+
+- Go back to GNS3 VM and open the shell:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/368dcd24-7fe9-4fab-bccf-66fb51d33e61)
+
+- Run 'ifconfig':
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/8aa98879-9557-4d5a-9332-03bb01a3ee15)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/a53fe80c-2cb7-4d2d-80af-ce4f989753f2)
+
+- Go back to GNS3 and select "run appliance in a virtual machine':
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/80bfc77d-e9b6-4467-ada0-2fdf688fe9a4)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/296297f3-7038-4b79-be80-c6d9b8db0ee3)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/16928ef8-4468-4bdd-8647-282f66171369)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/2815357c-a51c-46c1-a30e-ac05035e674a)
+
+- Create new GNS3 Project:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/afed356d-a0f0-40fd-8aa5-d034f17fbe1f)
+
+- Move cloud over to workspace:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/770ba92e-687d-42bc-ac43-ed3713d40964)
+
+- Select the GNS3 VM:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/56d75a99-dd34-4c63-a8ae-e6403e718441)
+
+- Drag and drop an Ethernet switch and choose the GNS3 VM:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/e711f1c6-436c-4ed2-98bd-bc6e512f6455)
+
+- And do the same for the VPCS:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/7a08c2a9-88d0-4ba9-a298-c410c7d4e95d)
 
 
 
