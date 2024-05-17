@@ -43,7 +43,7 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 
 - Power up Server and now we have 2 network interfaces:
 
-![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/2f2acd90-db4f-449c-9422-75b55c2bf91e)
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/95f8f279-caf2-4294-accd-e4ea04fb7957)
 
 - Try to ssh to the new interface IP:
 
