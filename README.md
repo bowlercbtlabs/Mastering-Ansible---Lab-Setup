@@ -210,5 +210,8 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ef6d4528-4312-4561-947c-d92cf3bc0eed)
 
 
-- This is because the Cisco device is not running a newer version of ssh that the Ubuntu server is trying to use to connect
+- This is because the Cisco device is not running a newer version of ssh that the Ubuntu server is trying to use to connect.
+
+- We will now update the Ubuntu server to allow the old version of ssh:
+
 - 
