@@ -33,6 +33,26 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ed9be7de-bfa1-48df-b60f-c63ea01b64b0)
 
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/f67a68ec-2324-4d65-b68c-ceb58f5dc40f)
+
+- Shutdown server and add network interface (this will be the interface we connect to GNS3 through the GNS3 VM):
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/4e9262e1-c7a5-4d3f-9fde-eadb0679a518)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/5b075498-82a9-43ec-bde8-57860ed5b9af)
+
+- Power up Server and now we have 2 network interfaces:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/2f2acd90-db4f-449c-9422-75b55c2bf91e)
+
+- Try to ssh to the new interface IP:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/0f2328e7-4a4d-4053-92b8-7c84b5f6f908)
+
+- Download GNS3 VM:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/6b1c7ee0-819f-40d2-9333-c6321f2b4b6c)
+
 
 
 
