@@ -217,6 +217,7 @@ https://www.vmware.com/content/vmware/vmware-published-sites/us/products/worksta
 sudo vi /etc/ssh/ssh_config
 
 KexAlgorithms diffie-hellman-group1-sha1,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group14-sha1
+
 HostKeyAlgorithms +ssh-rsa
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/be017911-c1cd-4f65-bfb9-e9a3aef54a70)
