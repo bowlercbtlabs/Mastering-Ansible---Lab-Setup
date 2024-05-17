@@ -228,7 +228,7 @@ https://networkevolution.in/how-to-enable-older-key-exchange-and-host-key-algori
 
 - Try the ssh connection again:
 
-![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ebecd955-b13b-458f-9570-30611e9578eb)
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/912ac02a-8d87-4517-af7b-0144779319e9)
 
 - Its working now, you have successfully created a connection from the ubuntu VM to the GNS3 VM running inside of GNS3
 
