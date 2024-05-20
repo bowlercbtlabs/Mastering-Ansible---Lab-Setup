@@ -293,8 +293,10 @@ Install VSCode and Create Remote SSH connection to Ubuntu Server, this is where 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/f56395c0-421a-46eb-9418-66e145058b12)
 
 
+******
+Install Windows Subsystem for Linux (WSL)
+******
 
-- 
 
 
 
