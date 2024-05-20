@@ -435,6 +435,9 @@ Setup the CSR1000v for SSH:
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/cd728d0c-d574-4183-97f0-e37a1f54f5f6)
 
+SSH to the device (in this case the IP is 192.168.79.132):
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/a6f587ce-7827-4995-a101-c04b906536b4)
 
 
 
