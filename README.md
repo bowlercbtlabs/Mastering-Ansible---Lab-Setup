@@ -417,5 +417,25 @@ Create new version:
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/39fea4ea-d141-4147-b86f-e9e2352c5cb6)
 
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/9bc3292b-6e9e-4f6f-b8fe-6d37c3f41f9d)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/c3dc86ce-2510-43c1-84f8-9419e133cd23)
+
+Add the device to the current network topology and start it:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/4e2353aa-f578-4198-a56f-ceb16a3dd3fd)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/43448e28-e44f-4273-b57e-3212cb67a20a)
+
+Verify the device is getting an IP address off the local GNS3 network, if not add it manually:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/0d067484-1a88-4b38-a537-af09812df395)
+
+Setup the CSR1000v for SSH:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/cd728d0c-d574-4183-97f0-e37a1f54f5f6)
+
+
+
 
 
