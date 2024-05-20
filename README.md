@@ -393,5 +393,10 @@ No Repo found, create it:
 ### DONE, Now you can use your github repository to download Ansible files/folders/playbooks etc....
 
 
+*****
+How to install the Cisco CSR1000v
+*****
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ce3d0b6b-3f7a-45fa-a487-9e26de94ff4e)
 
 
