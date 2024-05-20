@@ -342,5 +342,56 @@ Download Git for Windows:
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/8b9e21cf-68ed-4b49-94f3-c218f5c3a259)
 
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/65668379-3e3e-4850-9342-6db91bf01135)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/d3ad63c3-6dd5-4eb0-afe2-3f54822b1964)
+
+No Repo found, create it:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/5eb97dc6-431e-4849-b6c6-c370423d20c2)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/47087ccd-fc29-44ce-ad7d-89f6e96b5c4b)
+
+- Point to your github repo, not the instructors (i.e. bowlercbtlabs etc....)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/6cd68620-24b0-47b3-815b-3eecfb29737a)
+
+- Login to Github:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/11f69f7c-4132-4505-9e57-78398fb7dc9e)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/bdf3fef6-9d47-46c0-8232-a814d2962f85)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/2461a5f4-66fc-4ea1-bd6d-501c6339c792)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/b60f03bd-60e1-40cd-b422-80b0e16c04f2)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/4d5803fb-9904-44e4-83df-5d8ca7720674)
+
+- Update README and create new file/playbook:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/49ce9c14-1864-44b2-a0c5-7fb1bc418d58)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/c3b0781c-18c5-44aa-96a1-37a8ee785663)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/817fef38-a0a6-46f9-a461-284e7fb5d948)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/92f5eb4f-1b56-4dca-8bd2-b0de357c50a3)
+
+- Now we can see the new contents on github:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/f7348f57-ed98-4110-9716-a12ce2b58f3f)
+
+- Now make a change inside the new playbook on github:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/e3f4a7bc-b65b-46ee-999b-59e9c369ad7b)
+
+- Now do a git pull from VSCode:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/f87e5677-2507-46c1-8dd0-7cc9011258c5)
+
+### DONE, Now you can use your github repository to download Ansible files/folders/playbooks etc....
+
+
 
 
