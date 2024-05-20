@@ -247,7 +247,7 @@ https://networkevolution.in/how-to-enable-older-key-exchange-and-host-key-algori
 
 
 ******
-Install VSCode
+Install VSCode and Create Remote SSH connection to Ubuntu Server
 ******
 
 - Topology we are going to use with VSCode:
@@ -279,6 +279,11 @@ Install VSCode
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ef972a50-ef7d-4e8b-acaf-16fd99757573)
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/62a25039-be93-4907-9a80-0078a18487b4)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/c7fdc3fd-e747-452f-bf0b-674d7b9b524a)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/b12d84f3-5131-49ca-a3c8-331cf2cad1f6)
+
 
 - 
 
