@@ -246,3 +246,42 @@ https://networkevolution.in/how-to-enable-older-key-exchange-and-host-key-algori
 - Its working now, you have successfully created a connection from the ubuntu VM to the GNS3 VM running inside of GNS3
 
 
+******
+Install VSCode
+******
+
+- Topology we are going to use with VSCode:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/8a5b50d8-a2e8-4bc7-ae5d-08a6d82529bf)
+
+- Install VSCode:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/a99a5e47-8e22-45d2-81da-86c89ea40d4e)
+ 
+- Install Ansible:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ece62dd5-6363-4c50-9de8-a00e0fab3a92)
+
+- Install Remote Development:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/c94d5f6e-04d5-4d95-b67e-8d24059e37b3)
+
+- Add remote ssh client 'Remote SSH: Add New SSH Host':
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/74676882-0d40-41d3-8cdd-9ccd414c47d4)
+
+- login to the Ubuntu Server IP 'root@192.168.158.128'
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/300b514f-26a6-4a0d-a7f1-c6191079564a)
+
+- Now select 'Remte SSH: Connect to Host'
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ef972a50-ef7d-4e8b-acaf-16fd99757573)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/62a25039-be93-4907-9a80-0078a18487b4)
+
+- 
+
+
+
+
