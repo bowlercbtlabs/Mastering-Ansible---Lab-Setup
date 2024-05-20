@@ -309,8 +309,38 @@ Install Windows Subsystem for Linux (WSL)
 
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/5412632f-f483-4e74-bfa7-7f5b48eee725)
 
+- Create Ansible Directory and Install VSCode:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/43312a77-5b72-4978-8c95-a48f63615d3f)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/81656dee-1cf7-4c7d-9200-29f17ba93602)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ff8bc7db-8961-4c6f-a48f-785b14d218e6)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/84fc2df0-9d21-4c9b-83c2-fc5d91f46735)
 
 
+*****
+Create New Ansible Repository in Github
+*****
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/27b8fbf2-20ea-4fcc-8c81-ba22c92d98a4)
+
+Add README file to ansbile directory:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/415f5673-0fb5-42d7-b31e-abacbe792d69)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/8bb65d72-9e17-43e2-b65c-aa6544755395)
+
+Install Git:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/fc8f9219-de38-4026-b527-7a9aa59fd193)
+
+Download Git for Windows:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/e00fecec-93f9-4983-a569-f74585c9b678)
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/8b9e21cf-68ed-4b49-94f3-c218f5c3a259)
 
 
 
