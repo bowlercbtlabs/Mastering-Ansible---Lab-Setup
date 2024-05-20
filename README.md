@@ -394,9 +394,28 @@ No Repo found, create it:
 
 
 *****
-How to install the Cisco CSR1000v
+How to install the Cisco CSR1000v into GNS3
 *****
 
+Download the appliance file:
+
 ![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/ce3d0b6b-3f7a-45fa-a487-9e26de94ff4e)
+
+Download the image file from the Cisco website:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/f87a1663-42da-42b0-80f0-0f934781cf13)
+
+Import the appliance into GNS3:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/2ceb0d2c-3be6-4093-8a4f-d40d47867f02)
+
+Open the GNS3 VM inside GNS3:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/01c77362-964f-4902-9f82-329218360e9f)
+
+Create new version:
+
+![image](https://github.com/bowlercbtlabs/Mastering-Ansible---Lab-Setup/assets/120626722/39fea4ea-d141-4147-b86f-e9e2352c5cb6)
+
 
 
